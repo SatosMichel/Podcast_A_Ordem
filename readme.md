@@ -17,7 +17,7 @@ Cada episódio traz dicas práticas, curiosidades, boas práticas e reflexões s
 ## 🎧 Último Episódio
 
 **🎙️ Título:** Domine o Box Model e acelere com Vite  
-**📅 Data de lançamento:** [Atualize aqui]  
+**📅 Data de lançamento:** 24/06/2025.  
 **🪄 Descrição:** Descubra como o CSS Box Model pode transformar seu layout, e como o Vite pode acelerar (muito!) seu fluxo de desenvolvimento front end.
 
 ---
